@@ -1,0 +1,9 @@
+{
+	"name": "sachinadf1234",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "854be18e-c675-4a32-8d7e-f3aa81be4938",
+		"tenantId": "29ae7edd-b1db-408e-a7b0-1933d928df2a"
+	}
+}
